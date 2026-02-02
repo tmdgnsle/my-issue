@@ -45,10 +45,10 @@
 
 | **네컷뉴스** | **팟캐스트** | **홈 화면(추천)** |
 |:--:|:--:|:--:|
-| ![Image](./profile/네컷뉴스.gif) | ![Image](./profile/팟캐스트.gif) | ![Image](./profile/홈(추천).gif) |
+| ![Image](./profile/fourcut.gif) | ![Image](./profile/podcast.gif) | ![Image](./profile/home_recommend.gif) |
 
 ## 시스템 아키텍처
-![Image](./profile/시스템아키텍처.png)
+![Image](./profile/system_architecture.png)
 
 ### Environment
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
